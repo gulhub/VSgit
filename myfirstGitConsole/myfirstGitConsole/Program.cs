@@ -12,6 +12,8 @@ namespace myfirstGitConsole
         {
             
             //this is comment added in github
+
+            //code added in vs
         }
     }
 }
