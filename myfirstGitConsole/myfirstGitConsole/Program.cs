@@ -10,6 +10,8 @@ namespace myfirstGitConsole
     {
         static void Main(string[] args)
         {
+            
+            //this is comment added in github
         }
     }
 }
