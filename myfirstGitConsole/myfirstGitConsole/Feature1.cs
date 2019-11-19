@@ -8,12 +8,11 @@ namespace myfirstGitConsole
 {
     class Feature1
     {
-        public int add()
+        public int add(int x,int y)
         {
-            int x=1, y=2;
+        
+            return x + y;
 
-            int sum = x + y;
-            return sum;
         }
     }
 }
