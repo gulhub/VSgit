@@ -10,9 +10,9 @@ namespace myfirstGitConsole
     {
         public int add()
         {
-            int x=1, y=2;
+            var x=1, y=2;
 
-            int sum = x + y;
+            var sum = x + y;
             return sum;
         }
     }
