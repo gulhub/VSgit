@@ -8,10 +8,12 @@ namespace myfirstGitConsole
 {
     class Feature1
     {
-        //this is comment added in github
+        public int add()
+        {
+            int x = 1, y = 2;
 
-        //code added in vs
-        
-        //code added in new one
+            int sum = x + y;
+            return sum;
+        }
     }
 }
