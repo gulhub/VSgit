@@ -14,6 +14,8 @@ namespace myfirstGitConsole
             //this is comment added in github
 
             //code added in vs
+
+            //feature 2 code is there.
             //Feature 3 code is here.....
         }
     }
